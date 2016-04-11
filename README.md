@@ -24,5 +24,5 @@ The observation was done in a different room of the Student Center for 1 to 2 ho
 ### Recommendations
 We recommend investigating further and asking questions relating to the correlation between the level of freedom in the workplace and overall job satisfaction. The sample size and focus group for this observation is also limited because of the 10 hours of observation. Other universities will need to be considered, as well as different types of work organizations in order to generalize these findings. Besides ethnographic observation, more qualitative studies will need to be done such as interviews with student workers and their managers. Answering these questions may help understand if smartphones actually negatively affect student worker interactions and if this can be generalized to other organizations and workers.
 
-### H3 For More Information
+## For More Information
 Huyanh Hoang, Undergraduate in the Department of Informatics - University of California, Irvine. IN4MATX 162W, Bietz. huyanhh@uci.edu.
